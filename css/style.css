@@ -1,0 +1,114 @@
+body{
+    
+    background-color: beige;
+    
+    
+    
+}
+.bangla{
+    width: 300px;
+     height: 150px;
+     background-color: green;
+     overflow: hidden;
+     position: relative;
+     
+}
+.desh{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: red;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+   
+}
+.japan{
+    width: 300px;
+    height: 150px;
+    background-color: #fff;
+    overflow: hidden;
+    position: relative;
+    float: left;
+    display: flex;
+    margin-left: 200px;
+}
+.austria{
+    width: 300px;
+    height: 50px;
+    background-color: red;
+   
+    
+}
+.austria1{
+    width: 300px;
+    height: 50px;
+    background-color: #fff;
+    
+}
+.austria2{
+    width: 300px;
+    height: 50px;
+    background-color: red;
+
+}
+.brazil{
+    width: 300px;
+    height: 150px;
+    background-color: green;
+    overflow: hidden;
+    position: relative;
+   
+   
+}
+.li{
+    height: 150px;
+    width: 150px;
+    margin: auto;
+
+    
+}
+.argentina{
+    width: 300px;
+    height: 50px;
+    background-color: aqua;
+  
+}
+.argentina1{
+    width: 300px;
+    height: 50px;
+    background-color: #fff;
+    
+}
+.argentina2{
+    width: 300px;
+    height: 50px;
+    background-color: aqua;
+    
+}
+
+.me{
+    height: 50px;
+    width: 50px;
+    margin: auto;
+}
+.germany{
+    width: 300px;
+    height: 50px;
+    background-color: black;
+    
+    
+}
+.germany1{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(90, 8, 8);
+}
+.germany2{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(152, 155, 13);
+}
